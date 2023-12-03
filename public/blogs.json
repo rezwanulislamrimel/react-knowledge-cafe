@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/kQ5vV68/boy2.jpg",
+      "title": "The Secret Garden",
+      "author": "Alice Smith",
+      "image": "https://i.ibb.co/pfBqpj4/2.png",
+      "post_date": "2023-12-01",
+      "reading_time": "3",
+      "hashtag": "#FantasyReads"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/w4Hbd69/profile.png",
+      "title": "Lost in Time",
+      "author": "Bob Johnson",
+      "image": "https://i.ibb.co/JKHMCf3/1.jpg",
+      "post_date": "2023-11-28",
+      "reading_time": "2.5 ",
+      "hashtag": "#TimeTravel"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/59GDT51/girl2.jpg",
+      "title": "City of Stars",
+      "author": "Eva White",
+      "image": "https://i.ibb.co/9h3bPTS/4.jpg",
+      "post_date": "2023-11-25",
+      "reading_time": "4 ",
+      "hashtag": "#UrbanFantasy"
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "The Galactic Odyssey",
+      "author": "Sam Brown",
+      "image": "https://i.ibb.co/XzsXzJp/3.png",
+      "post_date": "2023-11-20",
+      "reading_time": "5 hours",
+      "hashtag": "#SciFiAdventure"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/9H0B8nN/girl1.jpg",
+      "title": "Mystic Shadows",
+      "author": "Lily Green",
+      "image": "https://i.ibb.co/kQ5vV68/boy2.jpg",
+      "post_date": "2023-11-15",
+      "reading_time": "3.5 ",
+      "hashtag": "#MysteryThriller"
+    }
+  ]
+  
